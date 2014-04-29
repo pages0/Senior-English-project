@@ -1,0 +1,80 @@
+/****************
+General
+****************/
+html{
+    background-color:#00CC99;
+}
+
+/*rule for links not in other selector*/
+a{
+  text-decoration:none;
+  color:black;
+}
+
+/*rule for content*/
+#wrapper{
+  max-width:940px;
+  margin:0 auto;
+  padding:0 5%;
+  
+}
+
+/*rule for top of site*/
+#logo{
+  text-align:center;
+  margin:0;
+}
+
+body{
+    max-width:90%;
+    float:middle;
+    margin:0 5% 0 5%;
+}
+
+
+/****************
+Heading
+****************/
+
+/*light blue header*/
+header{
+  background-color:#00CC99;
+  border-color:blue;
+  padding:5% 5% 5% 5%;
+}
+
+/*sets color of headings*/
+h1, h3{
+ color:white; 
+  
+}
+
+/*nav background*/
+header nav{
+ background-color: #006699;
+}
+
+/*nav rule for when  */
+nav a , nav a:visited{
+  color:#fff;
+}
+
+/*nav rule for when link is selected or when it is being hovered over */
+nav a.selected, nav a:hover{
+  color:#00FFFF;
+}
+
+/*site body*/
+body{
+  background-color:#fff;
+  color:#999
+}
+
+/****************
+Footing
+****************/
+
+footer{
+  background-color:#00FFFF;
+  border-color:orange;
+}
