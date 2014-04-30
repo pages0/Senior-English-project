@@ -31,6 +31,9 @@ body{
     margin:0 5% 0 5%;
 }
 
+div {
+    padding:10px;
+}
 
 /****************
 Heading
@@ -62,6 +65,12 @@ nav a , nav a:visited{
 /*nav rule for when link is selected or when it is being hovered over */
 nav a.selected, nav a:hover{
   color:#00FFFF;
+}
+
+nav li{
+    max-width:18%;
+    float:left;
+    margin:20px;
 }
 
 /*site body*/
