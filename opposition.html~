@@ -1,0 +1,53 @@
+<!Doctype html>
+<html>
+  <head>
+    <meta charset="UFT-8">
+    <meta name="author" content="Reilly Noonan Grant">
+    <meta name="description" content="Simple website I put together
+				      for the purpose of displaying my
+				      senior project on the potential
+				      impact of technology on
+				      education">
+    <meta name="keywords" content="Education, Internet, technology,
+				   Khan Academy">
+    <title>Importance of education</title>
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href ="css/main.css">
+  </head>
+  <body>
+    <header>
+      <a href="index.html" id="logo">
+        <h1>Self directed and Self paced learning</h1>
+        <h3>by Reilly Noonan Grant</h3>
+	<h4>Can online learning resources promote equality of educational opportunity, improve economic prosperity, and transform education for American students?</h4>
+      </a>
+      <nav>
+        <ul>
+	  <li><a href="index.html">Introduction<a></li>
+          <li><a href="Importance.html" class="selected">Importance</a></li>
+          <li><a href="opposition.html">Opposition</a></li>
+          <li><a href="approachess.html">Approches</a></li>
+          <li><a href="conclusion.html">Overall conclusion</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div>
+      <section>
+	
+	<h4>What is the opposition to this?</h4>
+	<p>
+	  
+	</p>
+      </section>
+    </div>
+    <footer>
+      <p> &copy; 2014 Reilly Noonan Grant</p>
+      <a href="https://www.facebook.com/reilly.n.grant?ref=tn_tnmn">
+        <img src ="img/facebook-wrap.png" alt="Facebook logo">
+      </a>
+      <a href="https://twitter.com/">
+        <img src ="img/twitter-wrap.png" alt="twitter logo">
+      </a>
+    </footer>
+  </body>
+</html>
